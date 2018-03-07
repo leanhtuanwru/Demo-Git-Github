@@ -8,3 +8,5 @@ this is lam
 =======
 Brach Git Test
 >>>>>>> test
+
+Add Cast Test
