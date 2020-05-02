@@ -5,5 +5,10 @@
 ------------------
 
 Add Cast Test hotfix
+<<<<<<< HEAD
 Add Content
 Edit Content
+=======
+
+Add Content
+>>>>>>> MyFeature
