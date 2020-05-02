@@ -1,9 +1,15 @@
 ﻿Tôi nói ae có nghe rõ không? :v :v :v
 
-"If you born in poor, it's not your mistakes. But if you die in mistakes, it's your mistakes"
+"If you born in poor, it's not your mistakes. But if you die in poor, it's your mistakes"
 -Bill Gates
- this is asdas
 ------------------
 
 Add Cast Test hotfix
 
+Add Content
+Edit Content
+Test Conflict
+Conflict 2
+Conflict 3
+Conflict 3.1
+Conflict 4
