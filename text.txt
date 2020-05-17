@@ -18,4 +18,4 @@ Learn Git Flow 2
 Learn Git Flow 2.1
 Learn Git Flow 2.2
 Learn Git Flow 2.3
-Make Conflict
+Make Conflict 1
