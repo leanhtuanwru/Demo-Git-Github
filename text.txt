@@ -21,3 +21,4 @@ Learn Git Flow 2.3
 Make Conflict 1
 Make Conflict 2
 Make Commit A
+Make Commit B
