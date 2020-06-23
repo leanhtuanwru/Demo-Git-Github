@@ -23,6 +23,8 @@ Make Conflict 2
 Make Commit A
 Make Commit B
 Commit Not Push Develop Branch
+test amen B
 Amen
 Amen 1
+Edit File text.txt
 Edit File text.txt
